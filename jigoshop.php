@@ -518,7 +518,7 @@ function get_jigoshop_currency_symbol() {
 		case 'HUF' : $currency_symbol = '&#70;&#116;'; break; /* Hungary Forint */
 		case 'JPY' : $currency_symbol = '&yen;'; break; /* Japanese Yen */
 		case 'RUB' : $currency_symbol = '&#1088;&#1091;&#1073;'; break; /* Russia Ruble */
-		case 'TRY' : $currency_symbol = '&#8356;'; break; /* Turkey Lira */
+		case 'TRY' : $currency_symbol = 'TL'; break; /* Turkish	 Lira */
 
 		case 'CHF' :
 		case 'CZK' :
